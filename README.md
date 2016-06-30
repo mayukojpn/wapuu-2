@@ -7,7 +7,7 @@ Ougi Wapuu / 扇わぷー
 
 ## Concept
 
-"Heian" (平安) period (One of Japan's history of periodization)
+"Heian" period (One of Japan's history of periodization)
 
 >コンセプトは「平安時代」
 
