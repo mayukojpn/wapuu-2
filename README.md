@@ -7,6 +7,7 @@ Ougi Wapuu / 扇わぷー
 
 ## License
 GPLv2 or later
+
 Copyright is owned by Kazuko Kaneuchi, who created the original wapuu charactor.
 
 ---
