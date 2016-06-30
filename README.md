@@ -2,8 +2,6 @@ Ougi Wapuu / 扇わぷー
 ===
 
 <img src="wapuu_rgb.png", width="406", alt="wapuu">
-## WordCamp Tokyo 2016
-[https://2016.tokyo.wordcamp.org/](https://2016.tokyo.wordcamp.org/)
 
 ## Concept
 
@@ -21,6 +19,9 @@ WordPress も現代における情報伝達の手段ですが、平安時代の�
 GPLv2 or later
 
 Copyright is owned by Kazuko Kaneuchi, who created the original wapuu charactor.
+
+## WordCamp Tokyo 2016
+[https://2016.tokyo.wordcamp.org/](https://2016.tokyo.wordcamp.org/)
 
 ---
 Designed by [@natsumiine](https://github.com/natsumiine)
