@@ -11,4 +11,4 @@ GPLv2 or later
 Copyright is owned by Kazuko Kaneuchi, who created the original wapuu charactor.
 
 ---
-Design by [@natsumiine](https://github.com/natsumiine)
+Designed by [@natsumiine](https://github.com/natsumiine)
