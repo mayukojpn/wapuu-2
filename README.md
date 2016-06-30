@@ -1,6 +1,7 @@
 Ougi Wapuu / 扇わぷー
 ===
-![](wapuu_rgb.png =406x)
+
+<img src="wapuu_rgb.png", width="406", alt="wapuu">
 ## WordCamp Tokyo 2016
 [https://2016.tokyo.wordcamp.org/](https://2016.tokyo.wordcamp.org/)
 
