@@ -15,6 +15,8 @@ Ougi Wapuu / 扇わぷー
 WordPress も現代における情報伝達の手段ですが、平安時代のように一つの「文化」になったらいいな〜
 という思いを込めて立烏帽子と扇、どちらも平安を代表するモチーフを採用しています。
 
+>[WordCamp Tokyo 2016は「扇わぷー」に決定！](https://2016.tokyo.wordcamp.org/07/05/wapuu/) より引用
+
 ## License
 GPLv2 or later
 
